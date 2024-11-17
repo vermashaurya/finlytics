@@ -1,0 +1,5 @@
+streamlit==1.23.1
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.1
+cohere==4.0.1
